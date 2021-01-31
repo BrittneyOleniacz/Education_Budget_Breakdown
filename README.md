@@ -1,8 +1,7 @@
 
 
 ![Education](Images/education.png)
-As the Chief Data Scientist for your city's school district, you'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities.
-You've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
+You'll be helping the school board and mayor make strategic decisions regarding future school budgets and priorities. You've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your responsibility is to aggregate the data to and showcase obvious trends in school performance.
 
 Your final report should include each of the following:
 ### District Summary
@@ -77,7 +76,6 @@ As final considerations:
 3. More student pass reading than reading. Generally, reading scores are higher than math scores by looking over the scores by grade, but looking at the test scores by school type this seems to be a trend only in district schools, specifically those of medium to large size. This should be compared to state and national scores over time to detect trends.
 
 These observations suggest charter schools are of higher education quality and operate more efficiently than district schools. Charter schools with 1000-2000 students grossly outperform the district schools of the same size with larger budgets. I suggest to the Mayor and Schoolboard to examine, adapt and implement the teaching methods used at Charter schools. Additionally, a more detailed analysis on charter and district school budgets is needed to compare how each type of school uses and manages their budget. Factors like the quality of food served in the cafetertia or the duration of the school day can impact student performace and school budgets. An analysis of instructional staff would also be helpful to look at the caliber of teaching, the educational level of teachers, the student-to-teacher ratio, teaching styles, and etc. Additionally, salaries of those employed by the school should be carefully analyzed. For instance, if teachers are paid more at charter schools, they will take more pride in their job and will be more attentive to student needs than underpaid instructors at district schools. I must request a thorough demographic analysis be performed of the student population across the district to look at household size, household income, geographic distribution, learning disability, mental health & wellness of household, education level of head of household, number of daily meals, among other variables. The quality of a student's homelife commonly factors into academic performance. These additional analyses will provide a detailed, holistic view of the schools and their students to know how to best distribute funds to better serve students.
-
 
 ### Copyright
 Trilogy Education Services © 2019. All Rights Reserved.
