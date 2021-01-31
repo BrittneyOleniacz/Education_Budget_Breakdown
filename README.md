@@ -19,8 +19,8 @@ Your final report should include each of the following:
 
 
 ### School Summary
-* Create an overview table that summarizes key metrics about each school, including:
-		* School Name
+* Create an overview table that summarizes key metrics about each school, including:    
+  * School Name   
   * School Type
   * Total Students
   * Total School Budget
@@ -58,6 +58,7 @@ Your final report should include each of the following:
 
 ### Math Scores by Grade\*\*
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+
 ![math_scores](Images/math_scores.png)
 
 
@@ -74,6 +75,7 @@ Your final report should include each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
+
 ![scores_by_school_spending](Images/scores_by_school_spending.png)
 
 
@@ -86,12 +88,7 @@ Your final report should include each of the following:
 ### Scores by School Type
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
 
-As final considerations:
-* Use the pandas library and Jupyter Notebook.
-* You must submit a link to your Jupyter Notebook with the viewable Data Frames.
-* You must include a written description of at least two observable trends based on the data.
-
-![scores_by_school_type](scores_by_school_type.png)
+![scores_by_school_type](Images/scores_by_school_type.png)
 
 
 ## Observations
