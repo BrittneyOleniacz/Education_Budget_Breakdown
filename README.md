@@ -33,6 +33,7 @@ Your final report should include each of the following:
 
 ![school_summary](Images/school_summary.png)
 
+
 ### Top Performing Schools (By % Overall Passing)
 * Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
   * School Name
@@ -46,21 +47,24 @@ Your final report should include each of the following:
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
   
-![school_summary](Images/school_summary.png)  
+![top_performing_schools](Images/top_performing_schools.png)  
+
 
 ### Bottom Performing Schools (By % Overall Passing)
 * Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
-![school_summary](Images/school_summary.png)
+
+![buttom_performing_schools](Images/buttom_performing_schools.png)
 
 
 ### Math Scores by Grade\*\*
 * Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-![school_summary](Images/school_summary.png)
+![math_scores](Images/math_scores.png)
 
 
 ### Reading Scores by Grade
 * Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
-![school_summary](Images/school_summary.png)
+
+![reading_scores](Images/reading_scores.png)
 
 
 ### Scores by School Spending
@@ -70,12 +74,14 @@ Your final report should include each of the following:
   * % Passing Math (The percentage of students that passed math.)
   * % Passing Reading (The percentage of students that passed reading.)
   * % Overall Passing (The percentage of students that passed math **and** reading.)
-![school_summary](Images/school_summary.png)
+![scores_by_school_spending](Images/scores_by_school_spending.png)
+
 
 ### Scores by School Size
 * Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
 
-![school_summary](Images/school_summary.png)
+![scores_by_school_size](Images/scores_by_school_size.png)
+
 
 ### Scores by School Type
 * Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
@@ -84,6 +90,9 @@ As final considerations:
 * Use the pandas library and Jupyter Notebook.
 * You must submit a link to your Jupyter Notebook with the viewable Data Frames.
 * You must include a written description of at least two observable trends based on the data.
+
+![scores_by_school_type](scores_by_school_type.png)
+
 
 ## Observations
 
