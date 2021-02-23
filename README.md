@@ -117,7 +117,7 @@ More student pass reading than math. Generally, reading scores are higher than m
 ## Summary Suggestions
 These observations suggest charter schools are of higher education quality and operate more efficiently than district schools. Charter schools with 1000-2000 students grossly outperform the district schools of the same size with larger budgets. I suggest to the Mayor and Schoolboard to examine, adapt, and implement the teaching methods and budget models used at charter schools. The Schoolboard can create working committees to investigate these trends and encourage more collaboration between teachers across the entire school district with a conference, teacher "swap", and peer mentors. 
 
-### Futher analysis
+### Further analysis
 I suggest the additional analyses to provide a detailed, holistic view of the schools and their students to know how to best distribute funds to better serve students.
 
 #### 1. Detailed Budgets
