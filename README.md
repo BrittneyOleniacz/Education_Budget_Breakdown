@@ -13,8 +13,10 @@ Your final report should include each of the following:
 * Scores by School Type
 
 
+## Final Report
+
 ### District Summary
-* Create a high level snapshot (in table form) of the district's key metrics, including:
+* high level snapshot (in table form) of the district's key metrics, including:
   * Total Schools
   * Total Students
   * Total Budget
@@ -28,7 +30,7 @@ Your final report should include each of the following:
 
 
 ### School Summary
-* Create an overview table that summarizes key metrics about each school, including:    
+* Overview table that summarizes key metrics about each school, including:    
   * School Name   
   * School Type
   * Total Students
@@ -44,7 +46,7 @@ Your final report should include each of the following:
 
 
 ### Top Performing Schools (By % Overall Passing)
-* Create a table that highlights the top 5 performing schools based on % Overall Passing. Include:
+* Table that highlights the top 5 performing schools based on % Overall Passing, including:
   * School Name
   * School Type
   * Total Students
@@ -60,25 +62,25 @@ Your final report should include each of the following:
 
 
 ### Bottom Performing Schools (By % Overall Passing)
-* Create a table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
+* A table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 ![buttom_performing_schools](Images/buttom_performing_schools.png)
 
 
 ### Math Scores by Grade\*\*
-* Create a table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ![math_scores](Images/math_scores.png)
 
 
 ### Reading Scores by Grade
-* Create a table that lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+* Lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ![reading_scores](Images/reading_scores.png)
 
 
 ### Scores by School Spending
-* Create a table that breaks down school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
+* Divide school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
   * Average Math Score
   * Average Reading Score
   * % Passing Math (The percentage of students that passed math.)
@@ -89,13 +91,13 @@ Your final report should include each of the following:
 
 
 ### Scores by School Size
-* Repeat the above breakdown, but this time group schools based on a reasonable approximation of school size (Small, Medium, Large).
+* Repeat the above breakdown, but group schools based on a reasonable approximation of school size.
 
 ![scores_by_school_size](Images/scores_by_school_size.png)
 
 
 ### Scores by School Type
-* Repeat the above breakdown, but this time group schools based on school type (Charter vs. District).
+* Repeat the above breakdown, but group schools based on school type.
 
 ![scores_by_school_type](Images/scores_by_school_type.png)
 
@@ -117,7 +119,7 @@ More student pass reading than math. Generally, reading scores are higher than m
 ## Summary Suggestions
 These observations suggest charter schools are of higher education quality and operate more efficiently than district schools. Charter schools with 1000-2000 students grossly outperform the district schools of the same size with larger budgets. I suggest to the Mayor and Schoolboard to examine, adapt, and implement the teaching methods and budget models used at charter schools. The Schoolboard can create working committees to investigate these trends and encourage more collaboration between teachers across the entire school district with a conference, teacher "swap", and peer mentors. 
 
-### Further analysis
+## Further analysis
 I suggest the additional analyses to provide a detailed, holistic view of the schools and their students to know how to best distribute funds to better serve students.
 
 #### 1. Detailed Budgets
