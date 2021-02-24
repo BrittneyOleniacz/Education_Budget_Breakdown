@@ -16,88 +16,46 @@ Your final report should include each of the following:
 ## Final Report
 
 ### District Summary
-* high level snapshot (in table form) of the district's key metrics, including:
-  * Total Schools
-  * Total Students
-  * Total Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
 
 ![district_summary](Images/district_summary.png)
 
 
 ### School Summary
-* Overview table that summarizes key metrics about each school, including:    
-  * School Name   
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
 
 ![school_summary](Images/school_summary.png)
 
 
 ### Top Performing Schools (By % Overall Passing)
-* Table that highlights the top 5 performing schools based on % Overall Passing, including:
-  * School Name
-  * School Type
-  * Total Students
-  * Total School Budget
-  * Per Student Budget
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
   
 ![top_performing_schools](Images/top_performing_schools.png)  
 
 
 ### Bottom Performing Schools (By % Overall Passing)
-* A table that highlights the bottom 5 performing schools based on % Overall Passing. Include all of the same metrics as above.
 
 ![buttom_performing_schools](Images/buttom_performing_schools.png)
 
 
-### Math Scores by Grade\*\*
-* A table that lists the average Math Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
+### Math Scores by Grade
 
 ![math_scores](Images/math_scores.png)
 
 
 ### Reading Scores by Grade
-* Lists the average Reading Score for students of each grade level (9th, 10th, 11th, 12th) at each school.
 
 ![reading_scores](Images/reading_scores.png)
 
 
 ### Scores by School Spending
-* Divide school performances based on average Spending Ranges (Per Student). Use 4 reasonable bins to group school spending. Include in the table each of the following:
-  * Average Math Score
-  * Average Reading Score
-  * % Passing Math (The percentage of students that passed math.)
-  * % Passing Reading (The percentage of students that passed reading.)
-  * % Overall Passing (The percentage of students that passed math **and** reading.)
 
 ![scores_by_school_spending](Images/scores_by_school_spending.png)
 
 
 ### Scores by School Size
-* Repeat the above breakdown, but group schools based on a reasonable approximation of school size.
 
 ![scores_by_school_size](Images/scores_by_school_size.png)
 
 
 ### Scores by School Type
-* Repeat the above breakdown, but group schools based on school type.
 
 ![scores_by_school_type](Images/scores_by_school_type.png)
 
