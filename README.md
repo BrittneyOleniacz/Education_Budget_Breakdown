@@ -1,18 +1,18 @@
-### OBJECTIVE:
+## OBJECTIVE
 Analyze the district-wide standardized test results to help the school board and mayor make strategic decisions regarding future school budgets and priorities. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. 
 
-###TASK: Aggregate the data to and showcase obvious trends in school performance and produce a final report with recommedations. 
-
-Your final report should include each of the following:
-* District Summary
-* School Summary
-* Top Performing Schools
-* Bottom Performing Schools
-* Math Scores by Grade
-* Reading Scores by Grade
-* Scores by School Spending
-* Scores by School Size
-* Scores by School Type
+###TASK
+Aggregate the data to and showcase obvious trends in school performance and produce a final report with recommedations. 
+  Your final report should include each of the following:
+    * District Summary
+    * School Summary
+    * Top Performing Schools
+    * Bottom Performing Schools
+    * Math Scores by Grade
+    * Reading Scores by Grade
+    * Scores by School Spending
+    * Scores by School Size
+    * Scores by School Type
 
 
 ## Final Report
