@@ -15,7 +15,7 @@ Aggregate the data to and showcase obvious trends in school performance and prod
     * Scores by School Type
 
 
-## Final Report
+## FINAL REPORT
 
 ### District Summary
 
