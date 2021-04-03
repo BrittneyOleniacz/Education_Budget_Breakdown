@@ -3,7 +3,7 @@ Analyze the district-wide standardized test results to help the school board and
 
 ## TASK
 Aggregate the data to and showcase obvious trends in school performance and produce a final report with recommedations. 
-  Your final report should include each of the following:
+Your final report should include each of the following:
     * District Summary
     * School Summary
     * Top Performing Schools
