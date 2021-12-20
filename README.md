@@ -85,7 +85,7 @@ This trend is seen in the top and bottom performing school based on percent of s
 The budget for the top performing school ranged from  $585,858.00 𝑡𝑜 $1,319,574.00 and the bottom performing schools had budgets between  $1,884,411.00 𝑎𝑛𝑑 $3,094,650.00. The assumption was Johnson High School with a budget of $3,094,650.00 is a large school, thus the budget per student would be low. However, by examining the budget per student calculations, Johnson High School has one of the highest budgets per student. This trend is seen again in the test scores grouped by school spending. From this calculation, budget per student and overall passing are inversely related. 
 
 ### 3. Size matters.
-Schools with a smaller student population produces higher test scores. In general, schools with over 2,000 students had the lowest test scores. 
+Schools with a smaller student population produce higher test scores. In general, schools with over 2,000 students had the lowest test scores. 
 
 ### 4. Widespread aversion to math.
 More student pass reading than math. Generally, reading scores are higher than math scores by looking over the scores by grade, but looking at the test scores by school type this seems to be a trend only in district schools, specifically those of medium to large size. This should be compared to state and national scores over time to detect trends. How is math taught differently at charter schools and how can it be implemented in district schools. 
