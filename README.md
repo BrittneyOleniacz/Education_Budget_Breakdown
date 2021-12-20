@@ -1,4 +1,4 @@
-#Education Budget Breakdown
+# Education Budget Breakdown
 
 ## OBJECTIVE
 Analyze the district-wide standardized test results to help the school board and mayor make strategic decisions regarding future school budgets and priorities. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. 
