@@ -4,6 +4,48 @@
 Analyze the district-wide standardized test results to help the school board and mayor make strategic decisions regarding future school budgets and priorities. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. 
 
 ## Methods
+1. Read School and Student Data files and store into two seperate Pandas DataFrames and combine the data into a single dataset using merge function  
+2. Calculate, the following, and convert into District Summary DataFrame
+    * total number of schools
+    * total number of students
+    * total budget
+    * average math score
+    * average reading score
+    * percentage of students with a passing math score (70 or greater)
+    * percentage of students with a passing reading score (70 or greater)
+    * percentage of students who passed math and reading (% Overall Passing)
+ 3. Create an overview table that summarizes key metrics about each school, including:
+    * School Name
+    * School Type
+    * Total Students
+    * Total School Budget
+    * Per Student Budget
+    * Average Math Score
+    * Average Reading Score
+    * % Passing Math
+    * % Passing Reading
+    * % Overall Passing (The percentage of students that passed math and reading.)
+4. Sort and display the top five performing schools by % overall passing.
+5. Sort and display the five worst-performing schools by % overall passing.
+6. Create tables that lists the average Reading Score and Math Scores for students of each grade level (9th, 10th, 11th, 12th) at each school by using pandas series for each        grade by using a conditional statement, group each series by school, the combine the series into a dataframe.
+7. Create a table that breaks down school performances based on average Spending Ranges (Per Student) by using four bins (<$585, $585-614, $615-644, >$644) to group school          spending and contains: 
+    * Average Math Score
+    * Average Reading Score
+    * % Passing Math
+    * % Passing Reading
+    * Overall Passing Rate (Average of the above two)
+8.  Create a table that looks at school performances based on the School Size and grouped into bins: Small (<1000), Medium (1000-2000), Large (>2000)
+    * Average Math Score
+    * Average Reading Score
+    * % Passing Math
+    * % Passing Reading
+    * Overall Passing Rate (Average of the above two)
+9. Create a table that analyzes the school performances based on the type of school (Charter vs. District) and contains: 
+    * Average Math Score
+    * Average Reading Score
+    * % Passing Math
+    * % Passing Reading
+    * Overall Passing Rate (Average of the above two)
 
 ## Results
 ### District Summary
