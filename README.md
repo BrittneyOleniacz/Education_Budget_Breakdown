@@ -1,55 +1,40 @@
+#Education Budget Breakdown
+
 ## OBJECTIVE
 Analyze the district-wide standardized test results to help the school board and mayor make strategic decisions regarding future school budgets and priorities. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. 
 
+## Methods
 
-## FINAL REPORT
-
+## Results
 ### District Summary
-
 ![district_summary](Images/district_summary.png)
 
-
 ### School Summary
-
 ![school_summary](Images/school_summary.png)
 
-
 ### Top Performing Schools (By % Overall Passing)
-  
 ![top_performing_schools](Images/top_performing_schools.png)  
 
-
 ### Bottom Performing Schools (By % Overall Passing)
-
 ![buttom_performing_schools](Images/buttom_performing_schools.png)
 
-
 ### Math Scores by Grade
-
 ![math_scores](Images/math_scores.png)
 
-
 ### Reading Scores by Grade
-
 ![reading_scores](Images/reading_scores.png)
 
-
 ### Scores by School Spending
-
 ![scores_by_school_spending](Images/scores_by_school_spending.png)
 
-
 ### Scores by School Size
-
 ![scores_by_school_size](Images/scores_by_school_size.png)
 
-
 ### Scores by School Type
-
 ![scores_by_school_type](Images/scores_by_school_type.png)
 
 
-## Overall Observations
+## Observations and Findings
 
 ### 1. Charter schools had higher test scores than district schools. 
 This trend is seen in the top and bottom performing school based on percent of students that passed overall. The top five performing are charter schools and the bottom five are district schools. This trend is corroborated by the scores by school type. While there's less than a six point different in the average math schools and about three point difference in the average reading score, significant differences are seen in percent passing math and the overall passing rate.
