@@ -1,8 +1,6 @@
 ## OBJECTIVE
 Analyze the district-wide standardized test results to help the school board and mayor make strategic decisions regarding future school budgets and priorities. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. 
 
-## TASK
-Aggregate the data to showcase obvious trends in school performance and produce a final report with recommedations. 
 
 ## FINAL REPORT
 
